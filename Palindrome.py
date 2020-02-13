@@ -1,5 +1,6 @@
 # Program to Reverse the string
 # Program to Reverse the string
+# This is comments for git demo
 str1=input("Enter the string: ")
 str2=""
 n=len(str1)
