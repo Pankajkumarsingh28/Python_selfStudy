@@ -8,3 +8,5 @@ if str.lower()==str2.lower():
     print("String are same")
 else:
     print("String are different")
+
+# This is for Comparing two string and can be pushed to git
